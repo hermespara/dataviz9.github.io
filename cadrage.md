@@ -3,10 +3,9 @@
 ## Tâches à réaliser, et à reporter sur la feuille de suivi de projet: 
 
 
-- [x] Groupe formé
+- [x] Groupe formé
 - [x] Groupe Github créé
 - [x] Github page de projet créée avec un Hello World.
-
 
 ## Quel est le problème abordé / à quel besoin répondez vous ?
 >Expliquer en un paragraphe le problème que vous abordez, et le besoin auquel vous souhaitez répondre.
