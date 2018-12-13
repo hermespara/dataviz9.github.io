@@ -1,18 +1,18 @@
-# Document de cadrage de projet
+# Document de cadrage de projet
 
-## Tâches à réaliser, et à reporter sur la feuille de suivi de projet: 
+## Tâches à réaliser, et à reporter sur la feuille de suivi de projet: 
 
 - [x] Groupe formé
 - [x] Groupe Github créé
 - [x] Github page de projet créée avec un Hello World.
 
 
-## Quel est le problème abordé / à quel besoin répondez vous ?
+## Quel est le problème abordé / à quel besoin répondez vous ?
 >Expliquer en un paragraphe le problème que vous abordez, et le besoin auquel vous souhaitez répondre.
 
 Nous souhaitons donner une intuition rapide des différents impacts de l’Homme sur le climat, en particulier, notre impact  par population, en fonction de notre mode de vie et notre consommation de ressource fossile.
 
-##À qui s’adresse la visualisation, quelles tâches seront effectuées au travers de votre projet ?
+## À qui s’adresse la visualisation, quelles tâches seront effectuées au travers de votre projet ?
 >Clarifier le public principal de votre projet. Lister 3 tâches que votre projet permettra d’effectuer. Par ex. : “identifier le pays ayant émis le plus de CO2 depuis une date donnée”. Expliquer pourquoi ces tâches vous semblent les plus importantes.
 
 - Montrer les différences d’impact climatique entre population.
@@ -20,7 +20,7 @@ Nous souhaitons donner une intuition rapide des différents impacts de l’Homme
 - Montrer en vue plus détaillée les secteurs les plus responsables de l’impact climatique d’une région.
 
 
-## Sources de données pressenties
+## Sources de données pressenties
 >Lister les sources de données identifiées, pour chacune identifier leur intérêt principal et leurs limites potentielles. Clarifier si vous souhaitez en fusionner plusieurs ou pensez privilégier une en particulier. En cas de surprise/problème imprévu lié aux données, quel est votre plan de secours ?
 
 Sources :
@@ -33,13 +33,13 @@ Sources :
 
 Etant donné que notre projet comporte plusieurs visualisations, le nombre de visualisation pourra varier selon les éventuels imprévus.
 
-## Travaux important liés au projet
+## Travaux important liés au projet
 Lister 4 travaux liés au projet, par exemple : des projets avec des jeux de données similaires, des projets proposant des techniques de visualisation que vous trouvez intéressantes, des articles scientifiques présentant une technique ou une description du problème qui vous sera utile...
 Pour chaque travail, expliquer en quoi il vous semble intéressant par rapport à votre projet, et en quoi il pourrait être amélioré.
 
 
 
-##Organisation
+## Organisation
 >Quels moyens de communications avez vous mis en place (email, tracking github, slack...) ?
 
 - Slack majoritairement
